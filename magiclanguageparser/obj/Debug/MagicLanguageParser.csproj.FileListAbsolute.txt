@@ -1,0 +1,31 @@
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe.config
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csprojResolveAssemblyReference.cache
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.pdb
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.exe
+c:\users\nathan\documents\visual studio 2015\Projects\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.pdb
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe.config
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.exe
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.pdb
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.pdb
+C:\Users\nb212350\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe.config
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.exe
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.pdb
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.pdb
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csprojResolveAssemblyReference.cache
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe.config
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.exe
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.pdb
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.pdb
+C:\Users\nb212350\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csprojResolveAssemblyReference.cache
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe.config
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.exe
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\bin\Debug\MagicLanguageParser.pdb
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csprojResolveAssemblyReference.cache
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.csproj.CoreCompileInputs.cache
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.exe
+C:\Users\nate6\Desktop\MagicLanguageParser\MagicLanguageParser\obj\Debug\MagicLanguageParser.pdb

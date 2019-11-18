@@ -1,0 +1,5 @@
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Release\MagicLanguageParser.exe.config
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Release\MagicLanguageParser.exe
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\bin\Release\MagicLanguageParser.pdb
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Release\MagicLanguageParser.exe
+C:\Users\Nathan\Dropbox\MagicLanguageParser\MagicLanguageParser\obj\Release\MagicLanguageParser.pdb
